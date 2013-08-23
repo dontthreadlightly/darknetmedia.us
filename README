@@ -1,10 +1,10 @@
 darknetmedia.us
 ===============
 
-$ mkdir ~/Hello-World
+mkdir ~/Hello-World
 
-$ cd ~/Hello-World
+cd ~/Hello-World
 
-$ git init
+git init
 
-$ touch README
+touch README
